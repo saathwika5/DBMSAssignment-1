@@ -1,1 +1,0 @@
-# DBMSAssignment-1
